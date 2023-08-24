@@ -9,10 +9,10 @@ const Footer = () => {
         All rights reserved{" "}
         <a
           className="hover:text-white hover:underline decoration-[1px] cursor-pointer duration-300"
-          href="https://reactbd.com"
+          href="https://adilamin374@gmail.com"
           target="_blank"
         >
-          @reactbd.com
+          adilamin374@gmail.com
         </a>
       </p>
     </div>
